@@ -1,7 +1,7 @@
 <div align="center">
   <img width="1200" src="image.png" alt="Zenith-Mobile" />
   </div>
-# 🌌 ZENITH Mobile: Spatial OS Evolution
+ 🌌 ZENITH Mobile: Spatial OS Evolution
 
 **ZENITH Mobile** is a high-fidelity "Thumb-Centric" spatial operating system concept designed for the mobile web. It rejects traditional UI paradigms—like vertical scrolling lists and hamburger menus—in favor of **Kinetic Cylinder Physics**, **Liquid Glass Refraction**, and **Bimanual Spatial Interactions**.
 
