@@ -1,0 +1,9 @@
+{
+  "name": "ZENITH Mobile",
+  "description": "A 'Thumb-Centric' spatial OS mobile experience featuring Kinetic Cylinder Physics, Radial Navigation, and Pinch-to-Dive interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
